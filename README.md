@@ -1,16 +1,16 @@
-## Hi there 👋
+# Proyecto EX Parcial - Lester Omar Montiel Raxon
 
-<!--
-**ilker0583/ilker0583** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este repositorio contiene la implementación de los algoritmos del examen parcial del curso Estructura de Datos.
 
-Here are some ideas to get you started:
+## Contenido
+-Factorial (interativo y recursivo)
+-Fibonacci (interativo y recursivo)
+-Busqueda Lineal (interativo y recursivo)
+-Ordenamiento Burbuja (interativo y recursivo)
+-Medicion de tiempos System.nanoTime()
+-Exportación de resultado CSV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## como ejecutar
+´´´bash
+javac -d out $(find src -name "*.java")
+java -cp out benchmark.Main
