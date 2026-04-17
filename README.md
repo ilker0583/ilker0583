@@ -1,16 +1,23 @@
-# Proyecto EX Parcial - Lester Omar Montiel Raxon
+# Proyecto segudno Parcial -LISTA DOBLEMENTE ENLAZA CIRCULAR EN JAVA- Lester Omar Montiel Raxon
 
-Este repositorio contiene la implementación de los algoritmos del examen parcial del curso Estructura de Datos.
-
+##DESCRIPCION
 ## Contenido
--Factorial (interativo y recursivo)
--Fibonacci (interativo y recursivo)
--Busqueda Lineal (interativo y recursivo)
--Ordenamiento Burbuja (interativo y recursivo)
--Medicion de tiempos System.nanoTime()
--Exportación de resultado CSV
+-(Nodos en java)
+Donde cada noda contiene referencias al siguiente y al anterior nodo, y el último nodo apunta nuevamente al primero
+
+## Caracteristicas
+-Inserción de elementos
+-eliminación de nodos
+-recorrido de la lista
+-estructura circular y doblemente enlazada
+
+## Estructura del proyecto
+
 
 ## como ejecutar
-´´´bash
-javac -d out $(find src -name "*.java")
-java -cp out benchmark.Main
+Ejecutar la clase Main.Java
+
+## Autor
+Lester Omar Montiel Raxón
+Estudiante - Estructura de datos
+   
